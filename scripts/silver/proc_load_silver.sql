@@ -1,3 +1,16 @@
+/*
+=========================================
+Stored procedure: Load Silver Tables ( Bronze --> Silver)
+==========================================
+
+This procedure performs ETL(Extract, transform and load) process to poplulate silver tables from bronze schema.
+
+It will truncate existent table and  insert current data from bronze tables
+
+*/
+
+
+
 CREATE OR ALTER PROCEDURE silver.load_silver AS
 
 BEGIN
