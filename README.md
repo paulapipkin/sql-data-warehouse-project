@@ -3,6 +3,8 @@
 
 ## Project requirements
 
+[Visit NOTION](https://app.notion.com/p/Data-Warehouse-Project-e83d203003a74a90b9b62ef00c92c78b?source=copy_link)
+
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objectives
